@@ -16,11 +16,12 @@
   width: 100%;
 }
 
-.type{
+.type {
   padding-bottom: 110px;
   padding-top: 20px;
   padding-right: 40px;
 }
+
 .gradient-bottom {
   position: absolute;
   bottom: 0;
@@ -109,14 +110,17 @@
 }
 
 /* quotes section */
-.section5 {
+.section5, .myfooter {
   position: relative;
-  background-image: url(../images/rough.png);
+  background-image: url(../images/OIP.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
   width: 100%;
   height: auto;
+  
+}
+.section5{
   padding: 130px 0;
   margin-bottom: 50px;
 }

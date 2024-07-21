@@ -1,12 +1,3 @@
-.my-footer {
-    width: auto;
-    background-image: url('/src/images/rough.png');
-    background-size: cover;
-    background-attachment: fixed;
-    padding-top: 50px;
-    z-index: 1;
-}
-
 .arrow {
     position: fixed;
     bottom: 20px;

@@ -118,7 +118,7 @@ export default function Data() {
           <div className='row'>
             <div className='col-lg-6 col-md-7'>
               <h2 className='py-3'>Experience</h2>
-              <Resume first='1' second='03/2024 - Present' third='Web Developer' fourth='CodeAlpha' fifth='I actively contribute to the development and enhancement of web applications. My responsibilities involve coding and implementing innovative features. This internship has provided me with valuable hands-on experience.' />
+              <Resume first='1' second='03/2024 - Present' third='Full Stack Developer' fourth='Heapware' fifth='I actively contribute to the development and enhancement of web applications. My responsibilities involve coding and implementing innovative features. This internship has provided me with valuable hands-on experience.' />
               <Resume first='2' second='06/2023 - 02/2024' third='MERN stack developer' fourth='IDEO College of Technology' fifth='During my tenure as a MERN Stack Developer intern at Ideo College, I honed my skills in designing scalable web applications. I actively contributed to the development of cutting-edge projects, gaining experience in MERN technologies.' />
               <Resume first='3' second='10/2020 - 01/2021' third='Freelancing' fourth='DigiSkills' fifth='I acquired freelancing skills through Digiskills, marking a pivotal step in my professional journey. The natural progression of my abilities and the self-sufficiency have empowered me to thrive as a freelancer. ' />
             </div>
