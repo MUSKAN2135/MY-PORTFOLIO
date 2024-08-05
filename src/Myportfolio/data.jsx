@@ -9,6 +9,7 @@ import { Footer } from '../components/footer/footer';
 import { Col, Container, Row } from 'react-bootstrap';
 import Resume from '../components/resumesection/resume';
 import { Gallery } from '../components/gallery/gallery';
+import Signup from "../components/signUp/signup";
 
 export default function Data() {
   return (
@@ -101,8 +102,8 @@ export default function Data() {
         <div className='gradient-bottom'>
         </div>
       </section>
-      <section id='portfolio' className='container section6'>
-        <div className='container about-me d-flex flex-column align-items-center text-center pb-3 w-50' data-aos="fade-up">
+      <section id='portfolio' className='section6 d-flex flex-column justify-content-center align-items-center'>
+        <div className='about-me d-flex flex-column align-items-center text-center pb-3 w-50' data-aos="fade-up">
           <h2>Portfolio</h2>
           <hr className='hr-line'></hr>
         </div>
@@ -133,6 +134,7 @@ export default function Data() {
       </section>
       <section id="contactme" className='my-footer'>
         <Footer />
+      <Signup/>
       </section>
     </div>
   );
